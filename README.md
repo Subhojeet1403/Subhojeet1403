@@ -20,5 +20,5 @@ Languages: Python, Java, C#, SQL
 CCNA (Switching, Routing, Wireless Essentials, Python Essentials), Fortinet NSE 1 to 3, Red Hat System Administration (RH124, RH134), Deloitte Cyber Job Simulation (Forage), AWS Academy Cloud Foundations
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/subhojeet-gho...) | [asoksubho14@gmail.com]
+[LinkedIn](https://www.linkedin.com/in/subhojeet-ghosh-713805220/?isSelfProfile=true) | [asoksubho14@gmail.com]
 Open to cyber security analyst, VAPT and SIEM roles.
