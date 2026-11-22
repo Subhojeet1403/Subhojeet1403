@@ -1,0 +1,13 @@
+# Optional placeholder workflow.
+# Add automation here only when you decide what should be updated automatically.
+name: Profile Maintenance
+
+on:
+  workflow_dispatch:
+
+jobs:
+  reminder:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Confirm workflow is configured
+        run: echo "Profile maintenance workflow is ready."

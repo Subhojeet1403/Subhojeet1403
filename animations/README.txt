@@ -1,0 +1,1 @@
+Optional location for animation assets. The typing animation is currently loaded from readme-typing-svg.demolab.com and the contribution snake is generated into the GitHub output branch by the workflow.

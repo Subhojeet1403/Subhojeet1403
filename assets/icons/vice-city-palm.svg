@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="Neon palm tree">
+<defs><linearGradient id="p" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff4fa3"/><stop offset="1" stop-color="#00d9ff"/></linearGradient></defs>
+<path d="M92 166Q82 105 94 48" fill="none" stroke="url(#p)" stroke-width="7" stroke-linecap="round"/>
+<path d="M94 50Q55 12 18 29 57 35 88 58M95 50Q78 7 48 5 70 27 91 62M96 49Q111 8 145 8 120 28 99 61M98 51Q142 26 169 48 131 46 101 64M91 57Q48 47 17 76 55 68 94 69M99 57Q139 55 163 85 129 73 98 70" fill="none" stroke="url(#p)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25 166h130" stroke="#ff4fa3" stroke-width="4" stroke-linecap="round"/>
+</svg>

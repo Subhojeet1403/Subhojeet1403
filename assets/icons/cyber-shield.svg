@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Neon cybersecurity shield">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff4fa3"/><stop offset="1" stop-color="#00d9ff"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<path d="M80 10 132 30v42c0 35-21 59-52 78C49 131 28 107 28 72V30z" fill="#0d1117" stroke="url(#g)" stroke-width="6" filter="url(#glow)"/>
+<path d="M80 43a18 18 0 0 0-18 18v10h36V61a18 18 0 0 0-18-18zm-25 28h50v38H55z" fill="none" stroke="#00d9ff" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="80" cy="88" r="5" fill="#ff4fa3"/><path d="M80 93v10" stroke="#ff4fa3" stroke-width="5"/>
+</svg>

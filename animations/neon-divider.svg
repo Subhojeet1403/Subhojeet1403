@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 36" role="img" aria-label="Neon pink and cyan divider">
+<defs><linearGradient id="g"><stop stop-color="#ff4fa3"/><stop offset=".5" stop-color="#7928ca"/><stop offset="1" stop-color="#00d9ff"/></linearGradient></defs>
+<path d="M0 18H1200" stroke="#252b38" stroke-width="8"/><path d="M0 18H1200" stroke="url(#g)" stroke-width="3"/>
+<circle cx="12" cy="18" r="6" fill="#ff4fa3"/><circle cx="1188" cy="18" r="6" fill="#00d9ff"/>
+</svg>
